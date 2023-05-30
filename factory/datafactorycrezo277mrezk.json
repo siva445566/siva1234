@@ -1,0 +1,9 @@
+{
+	"name": "datafactorycrezo277mrezk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1de0b3c-0ebe-42cc-9202-584b2624492d",
+		"tenantId": "bdb7eeef-bbff-4830-b31c-83ccfc4a66ee"
+	}
+}
